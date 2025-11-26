@@ -1,16 +1,105 @@
-## Hi there 👋
+<!-- ⛩️ Custom Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=ARJ544%20•%20Abhinav%20Ranjan%20Jha&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**ARJ544/ARJ544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ✨ Typing Animation Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00B8FF&center=true&vCenter=true&width=1000&lines=Full-Stack+AI+Developer;Building+Clean+Fast+Thoughtful+Apps;Next.js+%7C+AI+%7C+RAG+%7C+LLMs+%7C+Agentic+AI;Creating+Projects+That+Actually+Help+People" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 About Me
+
+I’m **Abhinav**, a **Full-Stack AI Developer** who loves turning ideas into clean, fast, and meaningful applications.
+
+I began my coding journey in **June 2024**, and since then I’ve worked across:
+
+- **Frontend:** Next.js, React, Tailwind CSS  
+- **Backend:** Node.js, Express.js, FastAPI  
+- **Databases:** MongoDB, PostgreSQL  
+- **AI Systems:** RAG pipelines, LangChain, LangGraph, agentic workflows  
+- **Languages:** JavaScript, TypeScript, Python, SQL, C, HTML/CSS  
+
+I’ve built:
+
+- 🧠 **AI-powered workflows**  
+- 📚 **RAG-based QA systems**  
+- 🌐 **Full-stack apps with modern UIs**  
+- ⚙️ **Automation tools that solve real problems**
+
+I strengthened my fundamentals through **Harvard CS50** and **Angela Yu’s Full-Stack Bootcamp**, which boosted my love for solving real-world problems with code.
+
+I’m always experimenting, building, and leveling up.
+
+🔗 **LinkedIn:** [Abhinav Ranjan Jha](https://in.linkedin.com/in/abhinavranjanjha)
+
+---
+
+# 🧠 Tech Stack (All Image Icons Only)
+
+## 🚀 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="55" />
+  <img src="https://skillicons.dev/icons?i=css" width="55" />
+  <img src="https://skillicons.dev/icons?i=js" width="55" />
+  <img src="https://skillicons.dev/icons?i=ts" width="55" />
+  <img src="https://skillicons.dev/icons?i=python" width="55" />
+  <img src="https://skillicons.dev/icons?i=c" width="55" />
+</p>
+
+## ⚡ Frameworks & Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55" />
+  <img src="https://skillicons.dev/icons?i=react" width="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" />
+  <img src="https://skillicons.dev/icons?i=express" width="55" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="55" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
+</p>
+
+## 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" width="55" />
+</p>
+
+## 🤖 AI / Agentic / LLM Tech  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="55" />
+  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2E87FB?style=for-the-badge&logo=graph&logoColor=white" />
+</p>
+
+## 🛠 Development Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="55" />
+  <img src="https://skillicons.dev/icons?i=git" width="55" />
+  <img src="httpsillicons.dev/icons?i=github" width="55" />
+  <img src="https://skillicons.dev/icons?i=postman" width="55" />
+  <img src="https://skillicons.dev/icons?i=colab" width="55" />
+</p>
+
+## 🚀 Deployment  
+<p align="left">
+  <img src="https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Railway-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🔹 **[AI RAG System](https://github.com/ARJ544/RAG-frontend-and-backend)**
+```text
+Python • FastAPI • LangChain • Vector DB  
+Document answering system with retrieval pipeline.
+```
+
+### 🔹 **[Neura_Command (Agentic AI)](https://github.com/ARJ544/Neura_Command--Agent-)**
+```text
+Python • LangGraph • LangChain  
+Controls the entire PC with available tools
+```
+
+![](https://nirzak-streak-stats.vercel.app/?user=ARJ544&theme=dark&hide_border=false)<br/>
