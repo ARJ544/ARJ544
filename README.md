@@ -67,23 +67,22 @@ I’m always experimenting, building, and leveling up.
 ## 🤖 AI / Agentic / LLM Tech  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="55" />
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-2E87FB?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" width="55" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" width="55" />
 </p>
 
 ## 🛠 Development Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" width="55" />
   <img src="https://skillicons.dev/icons?i=git" width="55" />
-  <img src="httpsillicons.dev/icons?i=github" width="55" />
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
   <img src="https://skillicons.dev/icons?i=postman" width="55" />
-  <img src="https://skillicons.dev/icons?i=colab" width="55" />
 </p>
 
 ## 🚀 Deployment  
 <p align="left">
-  <img src="https://img.shields.io/badge/Render-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0A0A0A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://railway.com/brand/logo-dark.png" width="55" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQGGDoFoqHtOvA/company-logo_200_200/company-logo_200_200/0/1702595267620/renderco_logo?e=2147483647&v=beta&t=ZYrxKUyruOEupgw5Lr5amgwgBCJq8VXH8r05Qr5CeQc" width="55" />
 </p>
 
 ---
