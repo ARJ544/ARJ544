@@ -89,16 +89,23 @@ I’m always experimenting, building, and leveling up.
 
 # 🚀 Featured Projects
 
-### 🔹 **[AI RAG System](https://github.com/ARJ544/RAG-frontend-and-backend)**
+### 🔹 **[Email_Manager (Agentic AI)](https://github.com/ARJ544/Neura_Command--Agent-)**
 ```text
-Python • FastAPI • LangChain • Vector DB  
-Document answering system with retrieval pipeline.
+Python • LangGraph • LangChain • GmailAPI • NextJS • ETC....  
+Retrieves emails based on your query and allows secure deletion of selected messages.
 ```
 
 ### 🔹 **[Neura_Command (Agentic AI)](https://github.com/ARJ544/Neura_Command--Agent-)**
 ```text
 Python • LangGraph • LangChain  
 Controls the entire PC with available tools
+```
+
+
+### 🔹 **[AI RAG System](https://github.com/ARJ544/RAG-frontend-and-backend)**
+```text
+Python • FastAPI • LangChain • Vector DB  
+Document answering system with retrieval pipeline.
 ```
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ARJ544&theme=dark&hide_border=false)<br/>
