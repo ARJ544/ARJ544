@@ -90,7 +90,7 @@ I’m always experimenting, building, and leveling up.
 
 # 🚀 Featured Projects
 
-### 🔹 **[Email_Manager (Agentic AI)](https://github.com/ARJ544/Neura_Command--Agent-)**
+### 🔹 **[Email_Manager (Agentic AI)](https://github.com/ARJ544/Email-Manager-Agent)**
 ```text
 Python • LangGraph • LangChain • GmailAPI • NextJS • ETC....  
 Retrieves emails based on your query and allows secure deletion of selected messages.
