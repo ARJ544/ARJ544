@@ -77,6 +77,7 @@ I’m always experimenting, building, and leveling up.
   <img src="https://skillicons.dev/icons?i=git" width="55" />
   <img src="https://skillicons.dev/icons?i=github" width="55" />
   <img src="https://skillicons.dev/icons?i=postman" width="55" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="55" />
 </p>
 
 ## 🚀 Deployment  
