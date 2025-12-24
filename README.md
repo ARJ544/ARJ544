@@ -47,6 +47,7 @@ I’m always experimenting, building, and leveling up.
   <img src="https://skillicons.dev/icons?i=ts" width="55" />
   <img src="https://skillicons.dev/icons?i=python" width="55" />
   <img src="https://skillicons.dev/icons?i=c" width="55" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="55" />
 </p>
 
 ## ⚡ Frameworks & Technologies  
