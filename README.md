@@ -18,7 +18,7 @@ I began my coding journey in **June 2024**, and since then I’ve worked across:
 
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js, FastAPI  
-- **Databases:** MongoDB, PostgreSQL  
+- **Databases:** PostgreSQL  
 - **AI Systems:** RAG pipelines, LangChain, LangGraph, agentic workflows  
 - **Languages:** JavaScript, TypeScript, Python, SQL, C, HTML/CSS  
 
