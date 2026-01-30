@@ -11,33 +11,24 @@
 ---
 
 # 👨‍💻 About Me
+Hey, I'm **Abhinav** — a **Full-Stack AI Developer** turning ideas into clean, fast, useful apps.  
 
-I’m **Abhinav**, a **Full-Stack AI Developer** who loves turning ideas into clean, fast, and meaningful applications.
+Started coding in **June 2024**. Built strong fundamentals with **Harvard CS50** + **Angela Yu’s Full-Stack Bootcamp**.  
 
-I began my coding journey in **June 2024**, and since then I’ve worked across:
-
+I work with:  
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Node.js, Express.js, FastAPI  
 - **Databases:** PostgreSQL  
-- **AI Systems:** RAG pipelines, LangChain, LangGraph, agentic workflows  
-- **Languages:** JavaScript, TypeScript, Python, SQL, C, HTML/CSS  
+- **AI:** RAG pipelines, LangChain, LangGraph, agentic workflows  
+- **Languages:** JavaScript, TypeScript, Python, SQL, C, C++, HTML/CSS  
 
-I’ve built:
-
-- 🧠 **AI-powered workflows**  
-- 📚 **RAG-based QA systems**  
-- 🌐 **Full-stack apps with modern UIs**  
-- ⚙️ **Automation tools that solve real problems**
-
-I strengthened my fundamentals through **Harvard CS50** and **Angela Yu’s Full-Stack Bootcamp**, which boosted my love for solving real-world problems with code.
-
-I’m always experimenting, building, and leveling up.
+Focused on AI-powered tools, RAG QA systems, full-stack apps, and real-world automation. Always experimenting and leveling up.  
 
 🔗 **LinkedIn:** [Abhinav Ranjan Jha](https://in.linkedin.com/in/abhinavranjanjha)
 
 ---
 
-# 🧠 Tech Stack (All Image Icons Only)
+# 🧠 Tech Stack
 
 ## 🚀 Languages  
 <p align="left">
@@ -91,23 +82,23 @@ I’m always experimenting, building, and leveling up.
 
 # 🚀 Featured Projects
 
-### 🔹 **[Email_Manager (Agentic AI)](https://github.com/ARJ544/Email-Manager-Agent)**
-```text
-Python • LangGraph • LangChain • GmailAPI • NextJS • ETC....  
-Retrieves emails based on your query and allows secure deletion of selected messages.
+🔹 **[ParkPing (Ping the owner. Save the tow.)](https://github.com/ARJ544/parkping)**
+```
+Next.js • Supabase DB • Phone + Email Auth/Notifications • QR Code Generation
+Secure QR-based vehicle contact platform. Register your car,
+generate privacy-first QR sticker → anyone scans to ping you instantly
+(wrong parking, emergency, blocked driveway) via email/SMS without ever seeing your phone number.
+Instant alerts, anonymous messaging, no app needed for scanners.
 ```
 
-### 🔹 **[Neura_Command (Agentic AI)](https://github.com/ARJ544/Neura_Command--Agent-)**
-```text
+🔹 **[Email_Manager (Agentic AI)](https://github.com/ARJ544/Email-Manager-Agent)**  
+```
+Python • LangGraph • LangChain • GmailAPI • Next.js  
+Query-based email retrieval + secure bulk deletion.
+```
+
+🔹 **[Neura_Command (Agentic AI)](https://github.com/ARJ544/Neura_Command--Agent-)**  
+```
 Python • LangGraph • LangChain  
-Controls the entire PC with available tools
+Full PC control using natural language tools.
 ```
-
-
-### 🔹 **[AI RAG System](https://github.com/ARJ544/RAG-frontend-and-backend)**
-```text
-Python • FastAPI • LangChain • Vector DB  
-Document answering system with retrieval pipeline.
-```
-
-![](https://nirzak-streak-stats.vercel.app/?user=ARJ544&theme=dark&hide_border=false)<br/>
