@@ -102,3 +102,4 @@ Query-based email retrieval + secure bulk deletion.
 Python • LangGraph • LangChain  
 Full PC control using natural language tools.
 ```
+![](https://nirzak-streak-stats.vercel.app/?user=ARJ544&theme=dark&hide_border=false)<br/>
