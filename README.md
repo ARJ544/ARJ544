@@ -82,13 +82,10 @@ Focused on AI-powered tools, RAG QA systems, full-stack apps, and real-world aut
 
 # 🚀 Featured Projects
 
-🔹 **[ParkPing (Ping the owner. Save the tow.)](https://github.com/ARJ544/parkping)**
+🔹 **[Pingivo (Get Contacted Anonymously)](https://github.com/ARJ544/pingivo)**
 ```
 Next.js • Supabase DB • Phone + Email Auth/Notifications • QR Code Generation
-Secure QR-based vehicle contact platform. Register your car,
-generate privacy-first QR sticker → anyone scans to ping you instantly
-(wrong parking, emergency, blocked driveway) via email/SMS without ever seeing your phone number.
-Instant alerts, anonymous messaging, no app needed for scanners.
+Generate multipurpose QR codes for anything, anywhere. Secure, anonymous linking for vehicles, belongings, and beyond..
 ```
 
 🔹 **[Email_Manager (Agentic AI)](https://github.com/ARJ544/Email-Manager-Agent)**  
